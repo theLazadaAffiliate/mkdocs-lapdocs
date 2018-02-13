@@ -1,1 +1,4 @@
 site_name: Lazada Affiliate Program Documentation
+theme:
+  name: null
+  custom_dir: material
