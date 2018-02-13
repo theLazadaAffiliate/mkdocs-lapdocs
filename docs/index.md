@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Lazada Affiliate Program Documentation
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
